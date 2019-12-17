@@ -1,1 +1,1 @@
-media-tv/kodi -gdm X
+media-tv/kodi -gdm raspberry-pi -X

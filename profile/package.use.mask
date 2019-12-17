@@ -1,3 +1,4 @@
 media-sound/pulseaudio cpu_flags_arm_neon
 net-misc/networkmanager -iwd
-www-client/firefox -cpu_flags_arm_neon
+www-client/firefox cpu_flags_arm_neon
+media-tv/kodi -raspberry-pi
